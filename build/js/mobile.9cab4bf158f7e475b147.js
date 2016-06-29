@@ -1,0 +1,1 @@
+webpackJsonp([1],[function(e,n,c){(function(e){"use strict";c(5),c(119),e(document).ready(function(){var n=document.createElement("div");n.innerHTML="<h1>Hello World</h1>",document.body.appendChild(n),e("h1").greenify()})}).call(n,c(15))}]);
